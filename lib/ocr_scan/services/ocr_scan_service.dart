@@ -9,7 +9,7 @@ import 'package:image/image.dart' as img;
 import 'package:image_picker/image_picker.dart';
 import 'package:ocr_scan_text/ocr_scan/model/scan_match_counter.dart';
 import 'package:path/path.dart' as path;
-import 'package:pdf_render/pdf_render.dart';
+import 'package:pdfrx/pdfrx.dart';
 
 import '../../ocr_scan_text.dart';
 import '../helper/pdf_helper.dart';
